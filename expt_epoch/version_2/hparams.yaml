@@ -1,0 +1,5 @@
+d_rate: 0.1
+lr: 0.001
+n_hidden: 1024
+n_in: 40
+n_out: 80
